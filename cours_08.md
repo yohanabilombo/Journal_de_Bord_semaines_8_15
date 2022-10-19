@@ -1,4 +1,10 @@
 # Cours 8
 ## Retour sur la sortie
 
-Remettre le lien vers une vidéo que vous avez réalisée dans OBS. 
+### Oeuvre préférée
+Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+
+
+### Oeuvre la moins appréciée
+Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+
