@@ -1,15 +1,15 @@
 #  Description du contenu du journal de bord
 ## [Cours 8](cours_08.md) 
-* Remise d'une vidéo réalisée dans OBS
+* Retour sur la sortie
 
 #### Autre devoir
 * Préparation pour le quiz. 
 
 ## [Cours 9](cours_09.md) 
-* Choix de votre oeuvre métier pour la présentation 2.
+* Retour sur la conférence d'Eidos
 
 ## [Cours 10](cours_10.md) 
-* Créer une carte heuristique pour la présentation 2.  
+* Retour sur les visites de SidLee et PixMob
 
 #### Autre devoir
 * Préparer la présentation 2. 
