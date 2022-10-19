@@ -15,8 +15,7 @@
 * Préparer la présentation 2. 
 
 ## [Cours 11](cours_11.md) 
-* Écrire votre plan pour la présentation 2. 
-
+* Rétrospective de la présentation 2.
 ## [Cours 12](cours_12.md) 
 * Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
 
