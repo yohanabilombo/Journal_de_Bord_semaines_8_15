@@ -1,3 +1,8 @@
 # Cours 09 
-## Choix de votre métier pour la présentation 2
-En ordre de préférence, faites une liste de 3 métiers qui vous intéressent. 1 étant votre préférée. Expliquez en 2 à 3 phrases pourquoi ces métiers vous attirent. 
+## Retour sur la conférence d'Eidos
+
+### Intérêt
+Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
+
+### Travail
+Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
