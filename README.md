@@ -1,35 +1,4 @@
 #  Description du contenu du journal de bord
-## [Cours 1](cours_01.md) 
-* Créer un git pour votre journal de bord (Créer un nouveau ou copier cet exemple pour pouvoir le modifier)
-* Faire une première entrée dans votre journal en expliquant pourquoi avoir choisi TIM (5 à 10 lignes)
-
-#### Autre devoir
-* Lire le guide de l'étudiant et se procurer le matériel mentionné dans celui-ci. 
-
-## [Cours 2](cours_02.md) 
-* Faire une deuxième entrée en présentant 5 liens qui ont un rapport avec le domaine du multimédia. Expliquer chaque lien et pourquoi vous l'avez sélectionné. (2 à 3 lignes par lien)  
-
-#### Autre devoir
-* Formater votre disque dur. 
-
-## [Cours 3](cours_03.md) 
-* Écrire votre plan pour la présentation 1. 
-
-## [Cours 4](cours_04.md) 
-* Décrire 5 emplois du domaine du multimédia (4 à 5 lignes par emploi).
-
-#### Autre devoir
-* Préparer la présentation 1. 
-
-## [Cours 5](cours_05.md) 
-* Rétrospective de la présentation 1. 
-
-## [Cours 6](cours_06.md) 
-* Préparation de 5 questions en vue de la visite. 
-
-## [Cours 7](cours_07.md) 
-*  Analyse critique de l'oeuvre multimédia visitée. 
-
 ## [Cours 8](cours_08.md) 
 * Remise d'une vidéo réalisée dans OBS
 
