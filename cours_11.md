@@ -1,15 +1,11 @@
 # Cours 11
-## Plan de présentation 2 
-Durée: 5 à 7 minutes
+## Rétrospective de la présentation 2
 
-### Présentation
-Parlez du projet multimédia sélectionné. 
+### Points forts
+Nommer deux points forts de votre présentation. 
 
-### Carte heuristique
-Joindre la carte heuristique du projet. 
+### Points à améliorer
+Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
-### Technologies
-Nommer les technologies reliées au projet. 
-
-### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+### Présentation préférée
+Quelle présentation avez-vous préféré et pourquoi? 
