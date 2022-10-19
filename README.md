@@ -18,10 +18,11 @@
 * Écrire votre plan pour la présentation 2. 
 
 ## [Cours 12](cours_12.md) 
-* Créer un scénarimage ou un schéma narratif. 
+* Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
+
 
 ## [Cours 13](cours_13.md) 
-* Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
+* Créer un scénarimage ou un schéma narratif. 
 #### Autre devoir
 * Préparer la présentation 3. 
 
