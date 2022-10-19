@@ -1,6 +1,3 @@
 # Cours 10
-## Création de carte heuristique
-Créer une carte heuristique en lien avec votre présentation 2 et la joindre ici: 
+## Retour sur la visite de SidLee et PixMob
 
-
-![Carte heuristique](Images/Carteheuristique.jpg)
