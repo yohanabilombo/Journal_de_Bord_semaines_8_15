@@ -2,7 +2,7 @@
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
+La conférence que j'ai le plus aimé était celle de SidLee car j'aime tous les projets quil font qui son juste incroyable la visite qui nous on faite des bureau a été quelque chose qui a vraiment captivé mon attention. Voir les différentes facon de pouvoir faire du designe en Web a été la chose qui m'as le plus faciné. 
 
 ### Travail
-Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
+Oui, SidLee car l'environemment de travaille et les horraires que SidLee Propose a ses employer est quelque chose que me plait beaucoup. Non seulement ça mais tous leur projets et les idées qu'ils proposent ont l'air vraiment passionnante surtout lorqu'il sagit de grandes marques.
