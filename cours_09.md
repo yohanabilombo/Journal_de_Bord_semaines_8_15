@@ -2,7 +2,7 @@
 ## Retour sur la conférence d'Eidos
 
 ### Intérêt
-Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
+J'ai bien aimé lorsqu'il nous a parlée des différent type de jeux vidéo qu'il avait fait et l'envers du décors de la préparation de ceux-ci. Par exemple FIFA, il bous a dit que c'était un jeu très populaire mais répétif a la fois au fils des années tant dit que les jeux video avec des super hero,marvel,avanger demande plus de créativité et sont plus itéréssant a concevoir selon lui.
 
 ### Travail
-Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
+Non car je suis plus une fille qui aime plus travailler dans le wed et dans la conception graphique de celui-ci je ne pense pas avoir les capacité et la patience nécéssaire pour povoir travailler dans le domaine du jeux vidéo.
